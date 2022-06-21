@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/webm/static/css/main.073c9b0a.css",
+    "main.js": "/webm/static/js/main.b545634f.js",
+    "static/js/787.71e672d5.chunk.js": "/webm/static/js/787.71e672d5.chunk.js",
+    "static/media/image2.jpeg": "/webm/static/media/image2.bf04a03c0896ebc4408b.jpeg",
+    "index.html": "/webm/index.html",
+    "main.073c9b0a.css.map": "/webm/static/css/main.073c9b0a.css.map",
+    "main.b545634f.js.map": "/webm/static/js/main.b545634f.js.map",
+    "787.71e672d5.chunk.js.map": "/webm/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b545634f.js"
+  ]
+}
